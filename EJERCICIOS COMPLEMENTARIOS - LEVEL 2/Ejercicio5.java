@@ -6,7 +6,7 @@ public class Ejercicio5 {
     public static void main(String[] args) {
         sueldo();
     }
-
+    ///FUNCION QUE CALCULA EL SUELDO DE UNA SEMANA INGRESADNDO COMO DATOS LA CANTIDAD DE HORAS TRABAJAS Y EL VALOR POR HORA DE CADA DIA
     public static void sueldo() {
 
         Scanner scan = new Scanner(System.in);
